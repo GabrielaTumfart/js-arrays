@@ -83,6 +83,16 @@ console.table(teachers);
 
 // 7. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
 // e salvalo nella variabile lewisIndex
+
+// TODO      devo fare:
+// TODO      teachers[0] 'Sarah' primo insegnate 
+// TODO      teachers[1] 'Ed'     secondo insegnante
+// TODO      teachers[2] 'Fabio'  terzo insegnante
+// TODO      teachers[3] 'Phil'   quarto insegnante
+// TODO      teachers[4] 'Patrick'  quinto insegnante
+// TODO      teachers[5] 'Lewis'  sesto insegnante
+// TODO      teachers[6] 'Vanessa'   settimo insegnate
+
 const lewisIndex = null;
 
 // 8. Verifica se l'array teachers è vuoto
