@@ -23,7 +23,7 @@ console.table(teachers);
 // TODO      teachers[4] 'Lewis'
 // TODO      teachers[4] 'Luca'
 
-const fourthTeacher = null;
+const fourthTeacher = teachers(3);
 
 // 2. Sostituisci il quinto insegnante nell'array teachers con 'Patrick'
 
