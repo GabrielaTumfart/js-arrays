@@ -25,7 +25,9 @@ console.table(reversedTeachers);
 //TODO array ccon gli insegnanti con 5 caratteri di lunghezza nel nome
 //TODO facendo la ricerca ho trovato filter
 //TODO sempre partendo dall'idea di una sola riga
-const longNames = (teachers.filter, length > = 5);
+
+
+const longNames = teachers.filter(longNames >= teachers.length >= 5);
 console.table(longNames);
 
 
