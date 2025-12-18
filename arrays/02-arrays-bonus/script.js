@@ -11,6 +11,8 @@ console.table(teachers);
 
 // 1. Inverti l'ordine degli insegnanti nell'array teachers
 // e salva il risultato nella variabile reversedTeachers
+
+//TODO usare il reversed che ci ha parlato tiziano
 const reversedTeachers = null;
 
 // 2. Crea un nuovo array chiamato 'longNames' che contenga solo gli insegnanti
