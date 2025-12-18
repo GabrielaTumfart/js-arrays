@@ -25,7 +25,7 @@ console.table(teachers);
 
 const fourthTeacher = teachers[3];
 
-outputColor = background = rgb (${outputR}; ${outputG}; ${outputB}; ) //*mi ha insegnato tiziano oggi nella lezione
+outputColor = background = rgb(${outputR}; ${outputG}; ${outputB}; ) //*mi ha insegnato tiziano oggi nella lezione
 
 console.log("L'insegnante della quarta posizione è:", % C + , fourthTeacher, outputColor);
 
