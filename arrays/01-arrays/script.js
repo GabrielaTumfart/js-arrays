@@ -102,16 +102,14 @@ console.log("La posizione dell'insegnate 'Lewis' è: ",lewisIndex);
 
 //TODO Pseudo codice: 
 /*
-verificare se l'arrey è vuota
-SE la lunghezza dell'array è 0
- sarà true
+     verificare se l'arrey è vuota
+    SE la lunghezza dell'array è 0
+          sarà true
+    ALTRIMENTI      
+          sarà false
 
  */ 
 
-
-
-
-
-
-
-const isTeachersEmpty = null;
+      
+const isTeachersEmpty = teachers.length(0);
+console.table(isTeachersEmpty);
