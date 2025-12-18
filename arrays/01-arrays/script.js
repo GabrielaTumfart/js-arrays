@@ -99,4 +99,19 @@ console.log("La posizione dell'insegnate 'Lewis' è: ",lewisIndex);
 
 // 8. Verifica se l'array teachers è vuoto
 // e salva il risultato nella variabile isTeachersEmpty
+
+//TODO Pseudo codice: 
+/*
+verificare se l'arrey è vuota
+SE la lunghezza dell'array è 0
+ sarà true
+
+ */ 
+
+
+
+
+
+
+
 const isTeachersEmpty = null;
