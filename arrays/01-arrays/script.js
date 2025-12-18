@@ -93,7 +93,9 @@ console.table(teachers);
 // TODO      teachers[5] 'Lewis'  sesto insegnante
 // TODO      teachers[6] 'Vanessa'   settimo insegnate
 
-const lewisIndex = null;
+
+const lewisIndex = teachers[5];
+console.log("La posizione dell'insegnate 'Lewis' è: ",lewisIndex); 
 
 // 8. Verifica se l'array teachers è vuoto
 // e salva il risultato nella variabile isTeachersEmpty
