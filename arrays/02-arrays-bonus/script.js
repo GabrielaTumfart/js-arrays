@@ -7,6 +7,7 @@ const teachers = [
   'Lewis',
   'Luca'
 ]; // NON MODIFICARE QUESTA VARIABILE
+console.table(teachers);
 
 // 1. Inverti l'ordine degli insegnanti nell'array teachers
 // e salva il risultato nella variabile reversedTeachers
