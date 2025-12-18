@@ -21,8 +21,8 @@ console.table(teachers);
 // TODO      teachers[2] 'Fabio'  terzo insegnante
 // TODO      teachers[3] 'Phil'   quarto insegnante
 // TODO      teachers[4] 'Carlo'  quinto insegnante
-// TODO      teachers[5] 'Lewis'
-// TODO      teachers[6] 'Luca'
+// TODO      teachers[5] 'Lewis'  sesto insegnante
+// TODO      teachers[6] 'Luca'   settimo insegnate
 
 const fourthTeacher = teachers[3];
 
@@ -44,7 +44,7 @@ console.log("Il quarto insegnante elencato nell'array è: ",fourthTeacher);
 
 // TODO      teachers[4] 'Carlo' quinto insegnate
 
-teachers.splice(5,1, "Patrick");
+teachers.splice(4,1, "Patrick");
 
 
 
