@@ -111,5 +111,5 @@ console.log("La posizione dell'insegnate 'Lewis' è: ",lewisIndex);
  */ 
 
       
-const isTeachersEmpty = teachers.length(0);
+const isTeachersEmpty = teachers.length === 0;
 console.table(isTeachersEmpty);
