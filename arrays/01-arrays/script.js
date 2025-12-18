@@ -58,7 +58,9 @@ console.table(teachers);
 
 
 
-const lastTeacher = null;
+const lastTeacher = teachers;
+console.table(lastTeacher);
+
 
 // 4. Rimuovi il primo insegnante dall'array e salvalo nella variabile firstTeacher qui sotto
 const firstTeacher = null;
