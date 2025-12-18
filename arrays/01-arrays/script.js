@@ -94,7 +94,7 @@ console.table(teachers);
 // TODO      teachers[6] 'Vanessa'   settimo insegnate
 
 
-const lewisIndex = teachers[5];
+const lewisIndex = teachers.indexOf("Lewis");
 console.log("La posizione dell'insegnate 'Lewis' è: ",lewisIndex); 
 
 // 8. Verifica se l'array teachers è vuoto
