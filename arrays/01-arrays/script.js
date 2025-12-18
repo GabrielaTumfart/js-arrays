@@ -47,9 +47,11 @@ teachers.splice(5,1, "Patrick");
 console.table(teachers);
 
 
-
-
 // 3. Rimuovi l'ultimo insegnante dall'array e salvalo nella variabile lastTeacher qui sotto
+
+// TODO      teachers[6] 'Luca' l'ultimo insegnate
+
+
 const lastTeacher = null;
 
 // 4. Rimuovi il primo insegnante dall'array e salvalo nella variabile firstTeacher qui sotto
