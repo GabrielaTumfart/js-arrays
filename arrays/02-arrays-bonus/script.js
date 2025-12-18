@@ -27,7 +27,7 @@ console.table(reversedTeachers);
 //TODO sempre partendo dall'idea di una sola riga
 
 
-const longNames = teachers.filter(longNames >= teachers.length >= 5);
+const longNames = teachers.filter(teachers >= teachers.length >= 5);
 console.table(longNames);
 
 
