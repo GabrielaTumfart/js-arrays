@@ -22,7 +22,8 @@ console.table(reversedTeachers);
 // 2. Crea un nuovo array chiamato 'longNames' che contenga solo gli insegnanti
 // con un nome di lunghezza maggiore o uguale a 5 caratteri
 
-//TODO 
+//TODO array ccon gli insegnanti con 5 caratteri di lunghezza nel nome
+//TODO facendo la ricerca ho trovato filter
 const longNames = null;
 
 // 3. Rimuovi 'Ed' dall'array teachers
