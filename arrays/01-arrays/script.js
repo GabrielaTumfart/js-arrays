@@ -7,6 +7,7 @@ const teachers = [
   'Lewis',
   'Luca'
 ]; // NON MODIFICARE QUESTA VARIABILE
+console.table(teachers);
 
 
 
@@ -25,7 +26,7 @@ const teachers = [
 
 const fourthTeacher = teachers[3];
 
-//*mi ha insegnato tiziano oggi nella lezione
+//*mi ha insegnato tiziano oggi nella lezione, ma non sono riuscita ancora.
 /*let outputR = 0
 let outputG = 0
 let outputB = 0
@@ -51,18 +52,17 @@ teachers.splice(5,1, "Patrick");
 
 // TODO      teachers[6] 'Luca' l'ultimo insegnate
 
-
-teachers.pop();
-console.table(teachers);
-
-
-
-
 const lastTeacher = teachers;
 console.table(lastTeacher);
 
 
+teachers.pop();
+console.table(teachers);
+
 // 4. Rimuovi il primo insegnante dall'array e salvalo nella variabile firstTeacher qui sotto
+
+// TODO      teachers[0] 'Nathan' primo insegnate 
+
 const firstTeacher = null;
 
 // 5. Aggiungi un insegnante di nome 'Vanessa' alla fine dell'array teachers
