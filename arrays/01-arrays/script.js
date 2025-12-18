@@ -24,7 +24,10 @@ console.table(teachers);
 // TODO      teachers[4] 'Luca'
 
 const fourthTeacher = teachers[3];
-console.log(fourthTeacher);
+
+outputColor = background = rgb (${outputR}; ${outputG}; ${outputB}; ) //*mi ha insegnato tiziano oggi nella lezione
+
+console.log("L'insegnante della quarta posizione è:", % C + , fourthTeacher, outputColor);
 
 
 
