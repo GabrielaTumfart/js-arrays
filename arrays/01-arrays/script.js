@@ -44,12 +44,16 @@ console.log("Il quarto insegnante elencato nell'array è: ",fourthTeacher);
 // TODO      teachers[4] 'Carlo' quinto insegnate
 
 teachers.splice(5,1, "Patrick");
-console.table(teachers);
+
 
 
 // 3. Rimuovi l'ultimo insegnante dall'array e salvalo nella variabile lastTeacher qui sotto
 
 // TODO      teachers[6] 'Luca' l'ultimo insegnate
+
+
+teachers.pop();
+console.table(teachers);
 
 
 
