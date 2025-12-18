@@ -13,6 +13,16 @@ console.table(teachers);
 
 // 1. Utilizzando un indice sull'array teachers, cambia il valore della
 // variabile fourthTeacher qui sotto in modo che sia il quarto insegnante elencato nell'array
+
+// TODO      devo fare:
+// TODO      teachers[0] 'Nathan' primo insegnate 
+// TODO      teachers[1] 'Ed'     secondo insegnante
+// TODO      teachers[2] 'Fabio'  terzo insegnante
+// TODO      teachers[3] 'Phil'   quarto insegnante
+// TODO      teachers[4] 'Carlo'
+// TODO      teachers[4] 'Lewis'
+// TODO      teachers[4] 'Luca'
+
 const fourthTeacher = null;
 
 // 2. Sostituisci il quinto insegnante nell'array teachers con 'Patrick'
