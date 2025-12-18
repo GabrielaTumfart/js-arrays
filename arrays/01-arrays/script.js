@@ -63,9 +63,14 @@ console.table(teachers);
 
 // TODO      teachers[0] 'Nathan' primo insegnate 
 
-const firstTeacher = null;
+const firstTeacher = teachers;
+console.table(lastTeacher);
+
+teachers.shift();
+console.table(teachers);
 
 // 5. Aggiungi un insegnante di nome 'Vanessa' alla fine dell'array teachers
+
 
 // 6. Aggiungi un insegnante di nome 'Sarah' all'inizio dell'array teachers
 
