@@ -8,7 +8,7 @@ const teachers = [
   'Luca'
 ]; // NON MODIFICARE QUESTA VARIABILE
 
-console.table(teachers);
+
 
 
 // 1. Utilizzando un indice sull'array teachers, cambia il valore della
@@ -50,6 +50,8 @@ console.table(teachers);
 // 3. Rimuovi l'ultimo insegnante dall'array e salvalo nella variabile lastTeacher qui sotto
 
 // TODO      teachers[6] 'Luca' l'ultimo insegnate
+
+
 
 
 const lastTeacher = null;
