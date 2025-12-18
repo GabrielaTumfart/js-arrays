@@ -35,13 +35,19 @@ outputColor = background rgb (${outputR}; ${outputG}; ${outputB});
 
 console.log("L'insegnante della quarta posizione è:", % C + , fourthTeacher, outputColor); */
 
-console.log("L'insegnante della quarta posizione è:",fourthTeacher); 
+console.log("Il quarto insegnante elencato nell'array è: ",fourthTeacher); 
 
 
 
 // 2. Sostituisci il quinto insegnante nell'array teachers con 'Patrick'
 
 // TODO      teachers[4] 'Carlo' quinto insegnate
+
+teachers.splice(5,1, "Patrick");
+console.table(teachers);
+
+
+
 
 // 3. Rimuovi l'ultimo insegnante dall'array e salvalo nella variabile lastTeacher qui sotto
 const lastTeacher = null;
