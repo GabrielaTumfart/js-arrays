@@ -19,9 +19,9 @@ console.table(teachers);
 // TODO      teachers[1] 'Ed'     secondo insegnante
 // TODO      teachers[2] 'Fabio'  terzo insegnante
 // TODO      teachers[3] 'Phil'   quarto insegnante
-// TODO      teachers[4] 'Carlo'
-// TODO      teachers[4] 'Lewis'
-// TODO      teachers[4] 'Luca'
+// TODO      teachers[4] 'Carlo'  quinto insegnante
+// TODO      teachers[5] 'Lewis'
+// TODO      teachers[6] 'Luca'
 
 const fourthTeacher = teachers[3];
 
@@ -40,6 +40,8 @@ console.log("L'insegnante della quarta posizione è:",fourthTeacher);
 
 
 // 2. Sostituisci il quinto insegnante nell'array teachers con 'Patrick'
+
+// TODO      teachers[4] 'Carlo' quinto insegnate
 
 // 3. Rimuovi l'ultimo insegnante dall'array e salvalo nella variabile lastTeacher qui sotto
 const lastTeacher = null;
