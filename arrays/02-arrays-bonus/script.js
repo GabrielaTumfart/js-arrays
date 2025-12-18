@@ -15,7 +15,9 @@ console.table(teachers);
 //TODO usare il reversed che ci ha parlato tiziano: 
 //TODO facendo un po' di ricerca ho trovato slice()
 //TODO tiziano aveva detto che c'era un metodo che fa in una riga sola
-const reversedTeachers = teachers.reversed(), slice();
+const reversedTeachers = teachers.slice().reverse();
+console.table(reversedTeachers);
+
 
 // 2. Crea un nuovo array chiamato 'longNames' che contenga solo gli insegnanti
 // con un nome di lunghezza maggiore o uguale a 5 caratteri
