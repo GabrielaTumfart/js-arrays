@@ -38,6 +38,8 @@ console.log("L'insegnante della quarta posizione è:", % C + , fourthTeacher, ou
 
 console.log("Il quarto insegnante elencato nell'array è: ",fourthTeacher); 
 
+console.log(%C "Il quarto insegnante elencato nell'array è: ",fourthTeacher, color: pink); 
+
 
 
 // 2. Sostituisci il quinto insegnante nell'array teachers con 'Patrick'

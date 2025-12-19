@@ -14,9 +14,17 @@ console.table(teachers);
 
 //TODO usare il reversed che ci ha parlato tiziano: 
 //TODO facendo un po' di ricerca ho trovato slice()
-//TODO tiziano aveva detto che c'era un metodo che fa in una riga sola
-const reversedTeachers = teachers.slice().reverse();
-console.table(reversedTeachers);
+//TODO tiziano aveva detto che c'era un metodo che fa in una riga sola: const reversedTeachers = teachers.slice().reverse();
+//TODO console.table(reversedTeachers);
+
+//correzione tiziano:
+const reversedTeachers = [];
+for (let i = teachers.length - 1; i >= 0; i--) {
+const currentTeacher = teachers[i];
+
+reversedTeachers-push (currentTeacher);
+
+console. table(reversedTeachers);
 
 
 // 2. Crea un nuovo array chiamato 'longNames' che contenga solo gli insegnanti
